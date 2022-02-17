@@ -1,5 +1,5 @@
 #!/bin/bash
-#Author: ELVIS NKENGAFAC
+#Author: CHIMEZIE OLEKANMA
 #Company: ETECH CO.
 echo ".........----------------#################._.-.-INSTALL-.-._.#################----------------........."
 PS1='\[\e[01;36m\]\u\[\e[01;37m\]@\[\e[01;33m\]\H\[\e[01;37m\]:\[\e[01;32m\]\w\[\e[01;37m\]\$\[\033[0;37m\] '
